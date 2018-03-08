@@ -55,9 +55,14 @@ Name Entity Extraction with Python (sebagian besar menggunakan tutorial ini)
 
 http://nlpforhackers.io/named-entity-extraction/
 
+Data Training NETagger
+
+https://github.com/yohanesgultom/nlp-experiments/blob/master/data/ner/training_data.txt
+
 POS Tagger Bahasa Indonesia dengan Python
 
 https://yudiwbs.wordpress.com/2018/02/20/pos-tagger-bahasa-indonesia-dengan-pytho/
+https://yudiwbs.wordpress.com/2018/02/18/ner-named-entity-recognition-bahasa-indonesia-dengan-stanford-ner/
 
 Sastrawi Stemmer Python
 
