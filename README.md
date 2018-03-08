@@ -59,7 +59,7 @@ Data Training NETagger
 
 https://github.com/yohanesgultom/nlp-experiments/blob/master/data/ner/training_data.txt
 
-POS Tagger Bahasa Indonesia dengan Python
+POS Tagger & NER Bahasa Indonesia dengan Python
 
 https://yudiwbs.wordpress.com/2018/02/20/pos-tagger-bahasa-indonesia-dengan-pytho/
 https://yudiwbs.wordpress.com/2018/02/18/ner-named-entity-recognition-bahasa-indonesia-dengan-stanford-ner/
