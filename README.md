@@ -1,6 +1,6 @@
-# Name Entity Tagger ID
+# Named Entity Tagger ID
 
-Name Entity Tagger dengan korpus bahasa Indonesia menggunakan nltk ClassifierBasedTagger melakukan klasifikasi bagian kalimat yang merupakan Name Entity nama sesorang, lokasi, organisasi, waktu, dll.
+Named Entity Tagger dengan korpus bahasa Indonesia menggunakan nltk ClassifierBasedTagger melakukan klasifikasi bagian kalimat yang merupakan Named Entity nama sesorang, lokasi, organisasi, waktu, dll.
 
 ## Installation
 
@@ -51,7 +51,7 @@ hasil tag = (S
 
 ## Credits
 
-Name Entity Extraction with Python (sebagian besar menggunakan tutorial ini)
+Named Entity Extraction with Python (sebagian besar menggunakan tutorial ini)
 
 http://nlpforhackers.io/named-entity-extraction/
 
